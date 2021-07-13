@@ -1,2 +1,2 @@
-# freecodecamp-tribute-page
+# freecodecamp Tribute page
 This is the Freecodecamp's tribute challenge, made by Juan Esteban Guevara, Electronic Engineering student and amateur front-edn developer
